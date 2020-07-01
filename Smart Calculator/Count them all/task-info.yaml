@@ -150,5 +150,9 @@ files:
         print('Bye!')
   learner_created: false
 feedback_link: https://hyperskill.org/projects/74/stages/411/implement
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/74/stages/411/implement">JetBrains
+    Academy</a>
+  time: Wed, 01 Jul 2020 19:40:17 UTC
+record: 3
